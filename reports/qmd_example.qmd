@@ -13,6 +13,8 @@ bibliography: references.bib
 execute:
     echo: false
     warning: false
+project:
+  output-dir: docs
 
 ---
 
